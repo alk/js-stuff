@@ -1,0 +1,6 @@
+Various javascript stuff.
+
+Right now binary heap implementation is included. See
+http://en.wikipedia.org/wiki/Binary_heap
+
+Everything is public domain. Use at your will.
